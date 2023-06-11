@@ -4,7 +4,7 @@ An experiment of dgemm.
 
 Requirement:
 
-1. CMake 3.1 or above
+1. CMake 3.26 or above
 
 Install and Bench:
 
